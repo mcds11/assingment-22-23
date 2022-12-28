@@ -1,3 +1,3 @@
-# Welcome to my first HTML page
+# Welcome to HTML page
 ## About
-I am studying at the university of Suffolk!
+Assignment 1
